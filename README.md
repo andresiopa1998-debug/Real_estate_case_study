@@ -18,5 +18,5 @@ This project analyzes real estate data sourced from Kaggle to identify high-impa
 The study found a 23x price-per-square-foot gap between luxury and affordable markets. I recommended focusing program resources on **Waterbury** and **Bridgeport**, where a 5% credit significantly lowers the barrier to homeownership, unlike in luxury markets where the same percentage offers minimal relative impact.
 ## Files
 * `Real_estate_case_pyt.csv`: The cleaned and analyzed dataset.
-* `analysis_notebook.py`: Python code used for calculations.
+* `Real_estate_case_study (1).ipynb`: Python code used for calculations.
 * Tableau Dashboard: https://public.tableau.com/authoring/Real_Estate_Project_17769088354790/Dashboard1#1
